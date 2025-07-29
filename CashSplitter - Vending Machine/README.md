@@ -1,5 +1,5 @@
 # 💰 CashSplitter - Vending Machine
-### Program: Java
+### 🌟 Program: Java 🌟
 
 Halo teman-teman..🤙 Pada kesempatan saat ini saya akan membagikan program Java saya, namanya yaitu CashSplitter Vending Machine. Program apakah itu..🤔?? 
 
