@@ -1,4 +1,5 @@
-# CPP Looping Logic (Program: C++)
+# CPP Looping Logic 
+### Program: C++
 
 Halo teman2.. Perkenalkan nama saya Hafizh Nursalim, pada kesempatan kali ini saya akan membagikan program C++ yang saat itu saya buat untuk melakukan riset dan eksperimen terhadap bahasa pemograman C++.. Program ini selesai pada tanggal 9 Mei 2023 tepatnya saat saya masih semester 2 pada Program Studi S1 Matematika, Universitas Bengkulu. Program ini merupakan penerapan dari Looping Logic dan juga Coditional Statement dengan menggunakan C++. 
 
